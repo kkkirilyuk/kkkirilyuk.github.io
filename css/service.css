@@ -1,0 +1,24 @@
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 24px;
+    height: 100vh;
+    text-align: center;
+    position: relative;
+}
+
+.top {
+    background-color: #949494;
+    background-image: image("images/mid.png");
+}
+
+.middle {
+    background-color: #848484;
+}
+
+.bottom {
+    background-color: #747474;
+}
